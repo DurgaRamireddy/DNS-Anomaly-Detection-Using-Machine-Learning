@@ -1,4 +1,4 @@
-# 🔍 DNS Anomaly Detection Using Machine Learning
+# DNS Anomaly Detection Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat-square&logo=scikit-learn)

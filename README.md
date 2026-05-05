@@ -183,7 +183,7 @@ y = le.fit_transform(y_raw)
 # Label classes: [0, 1]
 ```
 
-**Why StandardScaler before PCA:** PCA finds directions of maximum variance. Unscaled features distort those directions - `length` (range 4–20) would dominate `digit_ratio` (range 0-1) regardless of actual informativeness.
+**Why StandardScaler before PCA:** PCA finds directions of maximum variance. Unscaled features distort those directions - `length` (range 4-20) would dominate `digit_ratio` (range 0-1) regardless of actual informativeness.
 
 **Class imbalance handling:**
 - Used `F1-score` as primary metric (accuracy is misleading on a 71/29 split)

@@ -369,7 +369,7 @@ dns-anomaly-detection/
 
 ## Presentation
 
-📺 Full project walkthrough on YouTube: [https://youtu.be/1GDnyfO8Fww](https://youtu.be/1GDnyfO8Fww)
+📺 Full project walkthrough on YouTube: [YouTube](https://youtu.be/BRD8PHBkOSc?si=SlA6gg0d43GXvjVe)
 
 ---
 

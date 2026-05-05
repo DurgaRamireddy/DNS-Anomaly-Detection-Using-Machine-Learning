@@ -35,7 +35,7 @@ Built a complete ML pipeline that detects **DGA (Domain Generation Algorithm)** 
 - [Key Findings](#key-findings)
 - [Limitations & Future Work](#limitations--future-work)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
+- [Plots](#plots)
 - [References](#references)
 
 ---
@@ -335,23 +335,15 @@ jupyter notebook
 
 ---
 
-## Project Structure
+## Plots
 
-```
-dns-anomaly-detection/
-├── dns_anomaly_detection.ipynb   # Main notebook - full pipeline
-├── dga-domain.txt                # DGA malicious domain feed (download separately)
-├── top-1m.csv                    # Alexa top-1M list (download separately)
-├── results/
-│   ├── 01_class_distribution.png
-│   ├── 02_eda_length_entropy.png
-│   ├── 03_pca_variance.png
-│   ├── 04_confusion_matrices.png
-│   ├── 05_pca_comparison.png
-│   ├── 06_feature_importance.png
-│   └── 07_f1_heatmap.png
-└── README.md
-```
+![Class Distribution](01_class_distribution.png)
+![EDA Length & Entropy](02_eda_length_entropy.png)\
+![PCA Variance](03_pca_variance.png)
+![Confusion Matrices](04_confusion_matrices.png)
+![PCA Comparison](05_pca_comparison.png)
+![Feature Importance](06_feature_importance.png)
+![F1 Heatmap](07_f1_heatmap.png)
 
 ---
 
